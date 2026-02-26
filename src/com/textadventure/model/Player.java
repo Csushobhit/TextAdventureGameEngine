@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
 import com.textadventure.model.Item;
-
+   
 public class Player {
 	private String currentRoomName;
 	private List<Item> inventory;
